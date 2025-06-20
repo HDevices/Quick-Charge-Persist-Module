@@ -1,0 +1,6 @@
+id=quickcharge_persist
+name=Enable Quick Charge Persist Prop
+version=1.0
+versionCode=1
+author=Dr. Yohan
+description=Fuerza persist.vendor.quick.charge=1 para mantener la carga rápida habilitada
